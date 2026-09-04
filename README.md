@@ -49,7 +49,11 @@ AI & Machine Learning Internship — YBI Foundation
 
 You can explore my live portfolio website here:
 
+## 🌐 Live Portfolio
 
+👉 **[View My Portfolio](https://rajini-konepalli.github.io/Rajini-konepalli-portfolio/)**
+
+My portfolio showcases my skills, projects, internship experience, and contact information.
 
 ## 🌐 Connect With Me
 
