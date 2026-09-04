@@ -2,14 +2,15 @@
 
 ## 🚀 Python Full Stack Developer Portfolio
 
-Welcome to my personal portfolio website! This project showcases my skills, projects, internships, and experience as an aspiring **Python Full Stack Developer**.
+Welcome to my personal portfolio website! This project showcases my skills, projects, internships, and experience as an aspiring Python Full Stack Developer.
 
-##👩‍💻 About Me
+## **👩‍💻 About Me**
+
 I am a B.Tech Computer Science and Engineering graduate and an aspiring Python Full Stack Developer passionate about building modern, responsive, and user-friendly web applications.
 
-I enjoy developing web applications using Python, HTML, CSS, JavaScript, Flask, MySQL, and React.js.
+I enjoy developing web applications using Python, HTML, CSS, JavaScript, Flask, MySQL, and React.js
 
-🛠️ Technologies & Skills
+## **🛠️ Technologies & Skills**
 Programming: Python, JavaScript, Java, C
 Frontend: HTML5, CSS3, JavaScript, React.js
 Backend: Python, Flask
@@ -37,6 +38,12 @@ Other.
 **B.Tech — Computer Science and Engineering**
 Siddhartha Educational Academy Group of Institutions, Tirupati
 CGPA: **8.0/10** | 2022–2026
+
+
+## **📜 Certifications**
+Deep Learning — NPTEL
+Cloud Computing — NPTEL
+AI & Machine Learning Internship — YBI Foundation
 
 📌 Portfolio
 
