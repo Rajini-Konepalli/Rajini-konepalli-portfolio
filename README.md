@@ -1,11 +1,10 @@
-# 👩‍💻 Rajini Reddy
+# 👩‍💻 Rajini Konepalli
 
 ## 🚀 Python Full Stack Developer Portfolio
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, internships, and experience as an aspiring **Python Full Stack Developer**.
 
-👩‍💻 About Me
-
+##👩‍💻 About Me
 I am a B.Tech Computer Science and Engineering graduate and an aspiring Python Full Stack Developer passionate about building modern, responsive, and user-friendly web applications.
 
 I enjoy developing web applications using Python, HTML, CSS, JavaScript, Flask, MySQL, and React.js.
@@ -47,7 +46,7 @@ You can explore my live portfolio website here:
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn:www.linkedin.com/in/rajini-reddy-konepalli-833b30313 
+* 💼 LinkedIn: https://linkedin.com/in/rajini-reddy-konepalli-833b30313 
 * 🐙 GitHub: https://github.com/Rajini-Konepalli
 
 ---
